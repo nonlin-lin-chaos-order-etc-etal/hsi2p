@@ -1,0 +1,11 @@
+<k2e7> Где почитать про реализацию оптимизации хвостовой рекурсии в языках программирования?
+* webClient43 (Asus@nn6qxgjsepth2g2ndwnjxdvv7ejrqryc3oan7cmymis6kioz7c2q.b32.i2p) has joined
+* scientist (scientist@3qwueusieoylreg6qgcq2paeole5ztv5dpyhekpknfwjl2n4q2ua.b32.i2p) has joined
+* karamba_i2p has quit (Ping timeout: 120 seconds)
+* Xeha has quit (Ping timeout: 120 seconds)
+* karamba_i2p (karamba_i2@ksfy2c5ghzh6odqyboegz7t6qpnmg3q72zanpxd4dkt7f53ku5zq.b32.i2p) has joined
+* Xeha (Xeha@cwymm24c6c26hcr4wkzggebefwpfbzrqj4y7ikwajlq4m7ujggpq.b32.i2p) has joined
+<pivoting> k2e7, в сырцах squeak.org, vpri.org, в сырцах трансляторов haskell и в сырцах strongtalk и в сопутствующих пластах литературы
+<pivoting> k2e7, ищи на фриноде и либерачате спецов по этим темам, в и2п ты их не сыщешь кроме меня и одного позвездившего мой почти пустой репозиторий хаскель и2п hsi2p замысел
+* k2e7 has quit (Quit: Leaving)
+<pivoting> https://github.com/nonlin-lin-chaos-order-etc-etal/hsi2p
